@@ -1,0 +1,448 @@
+{
+  "main": {
+    "id": "f3eb9d104c0854c0",
+    "type": "split",
+    "children": [
+      {
+        "id": "14eced7552fda21b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7c9b676906b3321c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "第三学期期末考试/概率论/随机事件及其概率(一) 四大公式.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "随机事件及其概率(一) 四大公式"
+            }
+          },
+          {
+            "id": "cffa6827a2350cea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "第三学期期末考试/概率论/随机事件及其概率(一) 伯努利概型.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "随机事件及其概率(一) 伯努利概型"
+            }
+          },
+          {
+            "id": "d58611d1495cb865",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "第三学期期末考试/概率论/一维随机变量及分布(一).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "一维随机变量及分布(一)"
+            }
+          },
+          {
+            "id": "ea51ea88c2a1cc6b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "第三学期期末考试/概率论/一维随机变量及分布(二).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "一维随机变量及分布(二)"
+            }
+          },
+          {
+            "id": "ad7a4eb67983ae52",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "第三学期期末考试/概率论/二维随机变量及其分布.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "二维随机变量及其分布"
+            }
+          },
+          {
+            "id": "b4146cd92437e4d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "第三学期期末考试/概率论/两个离散变量函数的分布.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "两个离散变量函数的分布"
+            }
+          },
+          {
+            "id": "f74fe8a12e3ca806",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "第三学期期末考试/概率论/二维随机变量及其分布.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "二维随机变量及其分布"
+            }
+          },
+          {
+            "id": "af0e6fd8b447fb7d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "第三学期期末考试/概率论/二维随机变量及其分布.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "二维随机变量及其分布"
+            }
+          },
+          {
+            "id": "5dc6118c3f8f06c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "第三学期期末考试/概率论/常见分布的数据特征.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "常见分布的数据特征"
+            }
+          },
+          {
+            "id": "f9b1589a781ca1c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "第三学期期末考试/概率论/切比雪夫不等式(估计概率) 不常考.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "切比雪夫不等式(估计概率) 不常考"
+            }
+          },
+          {
+            "id": "cd6f72a991dc912c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "第三学期期末考试/概率论/中心极限定理和数理统计概念.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "中心极限定理和数理统计概念"
+            }
+          },
+          {
+            "id": "7df1507ddbd3ecdb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "第三学期期末考试/概率论/参数估计.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "参数估计"
+            }
+          },
+          {
+            "id": "e84c25fbeac7cb5b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "第三学期期末考试/概率论/假设检验.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "假设检验"
+            }
+          },
+          {
+            "id": "b3a9cb77451f6d1e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "第三学期期末考试/概率论/相互独立.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "相互独立"
+            }
+          },
+          {
+            "id": "d8bdb58220dbb8e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "第三学期期末考试/概率论/随机事件及其概率(一) 四大公式.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "随机事件及其概率(一) 四大公式"
+            }
+          },
+          {
+            "id": "e63aec5519761bba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "第三学期期末考试/概率论/条件概率.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "条件概率"
+            }
+          },
+          {
+            "id": "e551e93cb1e265ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "第三学期期末考试/概率论/随机事件及其概率(一) 四大公式.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "随机事件及其概率(一) 四大公式"
+            }
+          }
+        ],
+        "currentTab": 12
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "11aa678ccf1b7f8c",
+    "type": "split",
+    "children": [
+      {
+        "id": "422aa62627efd82d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "74c3d7259a0db0f1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "5284343410c5c895",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "4df97327c0ae6201",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 263.5
+  },
+  "right": {
+    "id": "49aade2ca7ba75ef",
+    "type": "split",
+    "children": [
+      {
+        "id": "0ba76e7aabcc226f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9262d7ffc9af4336",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "第三学期期末考试/概率论/二维随机变量及其分布.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "二维随机变量及其分布 的反向链接列表"
+            }
+          },
+          {
+            "id": "a4cfdbba648db933",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "未命名.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "未命名 的出链列表"
+            }
+          },
+          {
+            "id": "41b112224c5fca67",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "44b3c2dcaf39995a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "第三学期期末考试/概率论/二维随机变量及其分布.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "二维随机变量及其分布 的大纲"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:创建新数据库": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "e84c25fbeac7cb5b",
+  "lastOpenFiles": [
+    "第三学期期末考试/概率论/参数估计.md",
+    "第三学期期末考试/概率论/假设检验.md",
+    "第三学期期末考试/概率论/一维随机变量及分布(一).md",
+    "第三学期期末考试/概率论/一维随机变量及分布(二).md",
+    "第三学期期末考试/概率论/二维随机变量及其分布.md",
+    "第三学期期末考试/概率论/估计量的无偏性和有效性.md",
+    "第三学期期末考试/概率论/中心极限定理和数理统计概念.md",
+    "第三学期期末考试/概率论/切比雪夫不等式(估计概率) 不常考.md",
+    "第三学期期末考试/概率论/常见分布的数据特征.md",
+    "第三学期期末考试/概率论/随机事件及其概率(一) 伯努利概型.md",
+    "第三学期期末考试/概率论/两个离散变量函数的分布.md",
+    "第三学期期末考试/概率论/两个连续型随机变量.md",
+    "第三学期期末考试/概率论/条件概率.md",
+    "第三学期期末考试/概率论/相互独立.md",
+    "第三学期期末考试/概率论/随机事件及其概率(一) 四大公式.md",
+    "第三学期期末考试/概率论/随机事件及其概率(一) 古典概型.md",
+    "第三学期期末考试/概率论/刷题/两个连续型随机变量.md",
+    "第三学期期末考试/概率论/刷题/二维随机变量及其分布.md",
+    "第三学期期末考试/概率论/刷题/两个离散变量函数的分布.md",
+    "第三学期期末考试/数据库概论/复习纲要.md",
+    "第三学期期末考试/数据库概论/关系代数.md",
+    "第三学期期末考试/计算机网络/知识点/第五章/链路层.md",
+    "第三学期期末考试/计算机网络/知识点/第五章/控制平面与链路层计算模型.md",
+    "第三学期期末考试/计算机网络/知识点/第四章 网络层/计算题.md",
+    "第三学期期末考试/计算机网络/知识点/第一章/核心计算模型、架构原理与关键考点.md",
+    "第三学期期末考试/计算机网络/知识点/第四章 网络层/第四章 网络层.md",
+    "第三学期期末考试/计算机网络/图片",
+    "第三学期期末考试/计算机网络/图片/Pasted image 20251227210548.png",
+    "第三学期期末考试/计算机网络/图片/Pasted image 20251227205009.png",
+    "第三学期期末考试/计算机网络/图片/Pasted image 20251227204943.png",
+    "第三学期期末考试/计算机网络/知识点/第五章",
+    "第三学期期末考试/计算机网络/知识点/第四章 网络层",
+    "第三学期期末考试/计算机网络/知识点/第三章 运输层",
+    "第三学期期末考试/计算机网络/知识点/第二章 应用层",
+    "第三学期期末考试/计算机网络/图片/Pasted image 20251227175539.png",
+    "第三学期期末考试/计算机网络/知识点/第一章",
+    "第三学期期末考试/计算机网络/知识点",
+    "第三学期期末考试/概率论/刷题/部分题目答案(链接)/未命名",
+    "第三学期期末考试/计算机网络/图片/Pasted image 20251227100933.png",
+    "第三学期期末考试/概率论/图片/Pasted image 20251227100611.png",
+    "第三学期期末考试/概率论/图片/Pasted image 20251227100335.png",
+    "第三学期期末考试/概率论/刷题/部分题目答案(链接)",
+    "第三学期期末考试/概率论/刷题",
+    "第三学期期末考试/概率论/图片/Pasted image 20251226110606.png",
+    "第三学期期末考试/概率论/图片/Pasted image 20251226105911.png",
+    "第三学期期末考试/概率论/图片/Pasted image 20251226103338.png"
+  ]
+}
